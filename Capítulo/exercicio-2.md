@@ -1,1 +1,0 @@
-Neste capítulo vimos que a estrutura por debaixo dos panos acessa o iterador da estrutura a cada passo da iteração. É por isso que quando ele tentou iterar o objeto literal `Casa`, ele obteve um erro. Ao invés disso, os atributos estivessem dentro de um `Array`, teria funcionado sem problemas.
