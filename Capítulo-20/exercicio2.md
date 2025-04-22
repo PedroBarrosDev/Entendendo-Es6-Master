@@ -1,0 +1,1 @@
+Podemos nos arriscar a definir que a metaprogramação nada mais é que a programação de programas que manipulam a si mesmo e/ou a outros programas. Um metaprograma é todo programa que atua sobre ele mesmo ou outro, seja no formato fonte, binário ou em uma representação abstrata em memória.
