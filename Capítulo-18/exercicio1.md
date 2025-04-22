@@ -1,0 +1,1 @@
+Funções geradoras são um tipo especial de função no JavaScript que podem pausar sua execução no meio do caminho e depois continuar de onde pararam. Elas são ótimas quando você quer produzir uma sequência de valores, um por vez como uma máquina que gera números sob demanda.
